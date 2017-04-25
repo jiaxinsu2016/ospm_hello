@@ -1,4 +1,4 @@
 module Hello() {
-    include <ospm_echo/index.scad>
+    include <brennangw-ospm_echo-0.1/index.scad>
 	MyEcho("hello");
 }
